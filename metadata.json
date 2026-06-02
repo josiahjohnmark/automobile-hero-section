@@ -1,0 +1,8 @@
+{
+  "name": "Neonix Dark",
+  "description": "A high-end cinematic landing page hero section with pure black background and scroll animations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
